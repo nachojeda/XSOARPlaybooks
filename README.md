@@ -1,2 +1,2 @@
 # XSOARPlaybooks
-Comprehensive guide of XSOAR Palo Alto auitoguide for playbook execution and handling
+Comprehensive guide of XSOAR Palo Alto autoguide for playbook execution and handling
